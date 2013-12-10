@@ -1,0 +1,6 @@
+3. [3 pkt] tworzy wyzwalacz,
+obs³uga b³êdów [2 pkt].
+
+
+2. tworzony wyzwalacz powinien sprawdzaæ poprawnoœæ dodawanych i modyfikowanych danych,
+4. obs³u¿ b³êdy np. podczas próby dodania rekordu do tabeli, która nie istnieje.
